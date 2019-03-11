@@ -74,6 +74,8 @@ func main() {
 
     }
 }
+   }
+}        
 
 
 func renderPrompt(name, greeting string) {
